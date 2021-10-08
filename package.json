@@ -12,7 +12,7 @@
   "author": "yaimeet <yaimeet@126.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:yaimeet/ts-lib-demo.git"
+    "url": "git@github.com:liujunzheng/ts-lib-demo.git"
   },
   "license": "MIT",
   "engines": {
